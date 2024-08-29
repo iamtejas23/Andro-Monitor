@@ -1,6 +1,4 @@
-Here's a complete and concise `README.md` for your "Andro Monitor" project in one markdown page:
-
-```markdown
+```
 # Andro Monitor
 
 Andro Monitor is a React Native application that provides detailed system information and analytics with a hacker-themed UI inspired by Kali Linux. The app displays real-time data on battery status, device information, network details, and more, featuring interactive graphs and animations for a dynamic terminal-like experience.
@@ -57,7 +55,7 @@ To get started with Andro Monitor, follow these steps:
 
 ## Screenshots
 
-![Andro Monitor Home](https://via.placeholder.com/800x400)  
+![Andro Monitor Home](https://i.imgur.com/0AMEJRW.jpeg) 
 *Figure: Home screen showcasing system info and graphs.*
 
 ## Technologies Used
