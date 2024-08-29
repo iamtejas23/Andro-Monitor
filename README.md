@@ -55,7 +55,7 @@ To get started with Andro Monitor, follow these steps:
 
 ## Screenshots
 
-![Andro Monitor Home](https://i.imgur.com/0AMEJRW.png)
+![Andro Monitor Home](https://i.imgur.com/Y98pvsG.png)
 *Figure: Home screen showcasing system info and graphs.*
 
 ## Technologies Used
